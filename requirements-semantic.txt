@@ -1,0 +1,4 @@
+# Install in addition to requirements.txt. Model downloads on first semantic query.
+sentence-transformers>=3.0,<6
+faiss-cpu>=1.8,<2
+numpy>=1.26,<3

@@ -1,0 +1,2908 @@
+[
+  {
+    "id": "ITEM162",
+    "name": "နံပြားကြက်ဥကပ်ကြော်",
+    "aliases": [
+      "နံပြားကြက်ဥကပ်ကြော်",
+      "နံပြားကျောက်ဦးကပ်ကျော်",
+      "နံပြားကျောက်ကကျော်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3500,
+    "category": "10=နံပြား နင့် ပေါင်မုန့် ",
+    "category_id": "MAIN17",
+    "available": true,
+    "source_id": 485,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM163",
+    "name": "နံပြားထောပတ်သုပ်",
+    "aliases": [
+      "နံပြားထောပတ်သုပ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 2000,
+    "category": "10=နံပြား နင့် ပေါင်မုန့် ",
+    "category_id": "MAIN17",
+    "available": true,
+    "source_id": 486,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM161",
+    "name": "နံပြားလိပ်ခုတ်",
+    "aliases": [
+      "နံပြားလိပ်ခုတ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3000,
+    "category": "10=နံပြား နင့် ပေါင်မုန့် ",
+    "category_id": "MAIN17",
+    "available": true,
+    "source_id": 484,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM159",
+    "name": "နံပြားလွတ်",
+    "aliases": [
+      "နံပြားလွတ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 1500,
+    "category": "10=နံပြား နင့် ပေါင်မုန့် ",
+    "category_id": "MAIN17",
+    "available": true,
+    "source_id": 482,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM164",
+    "name": "နံပြားအုတ်သုပ်",
+    "aliases": [
+      "နံပြားအုတ်သုပ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3500,
+    "category": "10=နံပြား နင့် ပေါင်မုန့် ",
+    "category_id": "MAIN17",
+    "available": true,
+    "source_id": 487,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM609",
+    "name": "ပေါင်မုန့်နို့ဆမ်း",
+    "aliases": [
+      "ပေါင်မုန့်နို့ဆမ်း"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3000,
+    "category": "10=နံပြား နင့် ပေါင်မုန့် ",
+    "category_id": "MAIN17",
+    "available": true,
+    "source_id": 932,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM608",
+    "name": "ပေါင်မုန့်မီးကင်",
+    "aliases": [
+      "ပေါင်မုန့်မီးကင်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 1000,
+    "category": "10=နံပြား နင့် ပေါင်မုန့် ",
+    "category_id": "MAIN17",
+    "available": true,
+    "source_id": 931,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM607",
+    "name": "ပေါင်မုန့်မီးကင်ထောပတ်သုပ်",
+    "aliases": [
+      "ပေါင်မုန့်မီးကင်ထောပတ်သုပ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 1500,
+    "category": "10=နံပြား နင့် ပေါင်မုန့် ",
+    "category_id": "MAIN17",
+    "available": true,
+    "source_id": 930,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM160",
+    "name": "ပဲနံပြား",
+    "aliases": [
+      "ပဲနံပြား"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 2500,
+    "category": "10=နံပြား နင့် ပေါင်မုန့် ",
+    "category_id": "MAIN17",
+    "available": true,
+    "source_id": 483,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM165",
+    "name": "ပဲဟင်းနံပြား",
+    "aliases": [
+      "ပဲဟင်းနံပြား"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 2500,
+    "category": "10=နံပြား နင့် ပေါင်မုန့် ",
+    "category_id": "MAIN17",
+    "available": true,
+    "source_id": 488,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM710",
+    "name": "ကြက်ကြော်",
+    "aliases": [
+      "ကြက်ကြော်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 5000,
+    "category": "11=မြန်မာအစားအစာများ ",
+    "category_id": "MAIN10",
+    "available": true,
+    "source_id": 1033,
+    "variation_list": [
+      {
+        "id": 141,
+        "boId": "VARIATION98",
+        "entityStatus": "ACTIVE",
+        "createdDate": "2025-11-06 07:32:17",
+        "modifiedDate": "2025-11-06 07:32:17",
+        "name": "ကြက်ကြော်",
+        "type": "Multi",
+        "modifier": null,
+        "ingredientList": []
+      }
+    ]
+  },
+  {
+    "id": "ITEM729",
+    "name": "ငါးမြင်းဗိုက်သား ဟင်း",
+    "aliases": [
+      "ငါးမြင်းဗိုက်သား ဟင်း",
+      "ငါးမြင်းဗိုက်သားဟင်း"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 4000,
+    "category": "11=မြန်မာအစားအစာများ ",
+    "category_id": "MAIN10",
+    "available": true,
+    "source_id": 1052,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM644",
+    "name": "ငါးရံဟင်း",
+    "aliases": [
+      "ငါးရံဟင်း"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3500,
+    "category": "11=မြန်မာအစားအစာများ ",
+    "category_id": "MAIN10",
+    "available": true,
+    "source_id": 967,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM728",
+    "name": "ငါးရှည်းဟင်း",
+    "aliases": [
+      "ငါးရှည်းဟင်း"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 7000,
+    "category": "11=မြန်မာအစားအစာများ ",
+    "category_id": "MAIN10",
+    "available": true,
+    "source_id": 1051,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM727",
+    "name": "ဆိတ်အူချမ်း",
+    "aliases": [
+      "ဆိတ်အူချမ်း"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 8000,
+    "category": "11=မြန်မာအစားအစာများ ",
+    "category_id": "MAIN10",
+    "available": true,
+    "source_id": 1050,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM676",
+    "name": "ထမင်းဖြူ",
+    "aliases": [
+      "ထမင်းဖြူ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 1500,
+    "category": "11=မြန်မာအစားအစာများ ",
+    "category_id": "MAIN10",
+    "available": true,
+    "source_id": 999,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM674",
+    "name": "ထမင်းဖြူ ပါဆယ်",
+    "aliases": [
+      "ထမင်းဖြူ ပါဆယ်",
+      "ထမင်းဖြူပါဆယ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 1500,
+    "category": "11=မြန်မာအစားအစာများ ",
+    "category_id": "MAIN10",
+    "available": true,
+    "source_id": 997,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM698",
+    "name": "ထမင်းဖြူ ပုံစား  ကြက်သား",
+    "aliases": [
+      "ထမင်းဖြူ ပုံစား ကြက်သား",
+      "ထမင်းဖြူပုံစားကြက်သား"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 7000,
+    "category": "11=မြန်မာအစားအစာများ ",
+    "category_id": "MAIN10",
+    "available": true,
+    "source_id": 1021,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM726",
+    "name": "ပုဇွန်ဟင်း",
+    "aliases": [
+      "ပုဇွန်ဟင်း"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 8000,
+    "category": "11=မြန်မာအစားအစာများ ",
+    "category_id": "MAIN10",
+    "available": true,
+    "source_id": 1049,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM646",
+    "name": "ပဲကြီးနှပ်",
+    "aliases": [
+      "ပဲကြီးနှပ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 1000,
+    "category": "11=မြန်မာအစားအစာများ ",
+    "category_id": "MAIN10",
+    "available": true,
+    "source_id": 969,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM255",
+    "name": "ငါးထမင်းနှယ်ကြက်ဥ",
+    "aliases": [
+      "ငါးထမင်းနှယ်ကြက်ဥ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 4500,
+    "category": "12=ထမင်းနှင့်ပြုလုပ်သောအသုပ်များ ",
+    "category_id": "MAIN19",
+    "available": true,
+    "source_id": 578,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM697",
+    "name": "ဇလုံထမင်း",
+    "aliases": [
+      "ဇလုံထမင်း"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 4500,
+    "category": "12=ထမင်းနှင့်ပြုလုပ်သောအသုပ်များ ",
+    "category_id": "MAIN19",
+    "available": true,
+    "source_id": 1020,
+    "variation_list": [
+      {
+        "id": 134,
+        "boId": "VARIATION91",
+        "entityStatus": "ACTIVE",
+        "createdDate": "2025-09-21 14:48:13",
+        "modifiedDate": "2025-09-21 14:48:13",
+        "name": "ဇလုံထမင်းအလွတ်",
+        "type": "Multi",
+        "modifier": null,
+        "ingredientList": [
+          {
+            "id": 386,
+            "boId": "INGREDIENT258",
+            "entityStatus": "ACTIVE",
+            "createdDate": "2025-09-21 14:48:24",
+            "modifiedDate": "2025-09-21 14:48:24",
+            "name": "ကြက်ဥ",
+            "mmName": "",
+            "extraPrice": "1000",
+            "ingredientStatus": "AVAILABLE",
+            "modifier": null,
+            "orderCount": null
+          },
+          {
+            "id": 387,
+            "boId": "INGREDIENT259",
+            "entityStatus": "ACTIVE",
+            "createdDate": "2025-09-21 14:48:32",
+            "modifiedDate": "2025-09-21 14:49:00",
+            "name": "ကြက်သား",
+            "mmName": "",
+            "extraPrice": "3000",
+            "ingredientStatus": "AVAILABLE",
+            "modifier": {
+              "id": 170,
+              "boId": "USR133011",
+              "entityStatus": "ACTIVE",
+              "createdDate": "2024-10-01 19:29:57",
+              "modifiedDate": "2024-10-01 19:29:57",
+              "name": "‌‌ ရွှေနေ့သစ် ဂျာ3",
+              "phoneNo": "09333",
+              "role": "CASHIER",
+              "nrc": "",
+              "address": "",
+              "salary": "",
+              "joinDate": "2024-10-01",
+              "profile": null,
+              "shopBoId": "SHOP0",
+              "shopName": null,
+              "isPrint": "true",
+              "totalPoint": null,
+              "currentPoint": null,
+              "note": null,
+              "securityQuestion": null,
+              "securityAnswer": null
+            },
+            "orderCount": null
+          },
+          {
+            "id": 388,
+            "boId": "INGREDIENT260",
+            "entityStatus": "ACTIVE",
+            "createdDate": "2025-09-21 14:48:52",
+            "modifiedDate": "2025-09-21 14:48:52",
+            "name": "ဝက်သား",
+            "mmName": "",
+            "extraPrice": "3000",
+            "ingredientStatus": "AVAILABLE",
+            "modifier": null,
+            "orderCount": null
+          },
+          {
+            "id": 389,
+            "boId": "INGREDIENT261",
+            "entityStatus": "ACTIVE",
+            "createdDate": "2025-09-21 14:49:32",
+            "modifiedDate": "2025-09-21 14:49:32",
+            "name": "ဆိတ်သား",
+            "mmName": "",
+            "extraPrice": "4000",
+            "ingredientStatus": "AVAILABLE",
+            "modifier": null,
+            "orderCount": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ITEM254",
+    "name": "ထမင်းကြော်ကြက်ဥ",
+    "aliases": [
+      "ထမင်းကြော်ကြက်ဥ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 4000,
+    "category": "12=ထမင်းနှင့်ပြုလုပ်သောအသုပ်များ ",
+    "category_id": "MAIN19",
+    "available": true,
+    "source_id": 577,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM347",
+    "name": "ထမင်းကြော်အလွတ်",
+    "aliases": [
+      "ထမင်းကြော်အလွတ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3000,
+    "category": "12=ထမင်းနှင့်ပြုလုပ်သောအသုပ်များ ",
+    "category_id": "MAIN19",
+    "available": true,
+    "source_id": 670,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM350",
+    "name": "ထမင်းဆီဆမ်း အလွတ်",
+    "aliases": [
+      "ထမင်းဆီဆမ်း အလွတ်",
+      "ထမင်းဆီဆမ်းအလွတ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3000,
+    "category": "12=ထမင်းနှင့်ပြုလုပ်သောအသုပ်များ ",
+    "category_id": "MAIN19",
+    "available": true,
+    "source_id": 673,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM352",
+    "name": "ထမင်းဖြူလိုက်ပွဲ",
+    "aliases": [
+      "ထမင်းဖြူလိုက်ပွဲ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 1000,
+    "category": "12=ထမင်းနှင့်ပြုလုပ်သောအသုပ်များ ",
+    "category_id": "MAIN19",
+    "available": true,
+    "source_id": 675,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM695",
+    "name": "မင်းကတော် ကြက်ဥ",
+    "aliases": [
+      "မင်းကတော် ကြက်ဥ",
+      "မင်းကတော်ကြက်ဥ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 5000,
+    "category": "12=ထမင်းနှင့်ပြုလုပ်သောအသုပ်များ ",
+    "category_id": "MAIN19",
+    "available": true,
+    "source_id": 1018,
+    "variation_list": [
+      {
+        "id": 132,
+        "boId": "VARIATION89",
+        "entityStatus": "ACTIVE",
+        "createdDate": "2025-09-21 14:44:48",
+        "modifiedDate": "2025-09-21 14:44:48",
+        "name": "မင်းကတော်ကြက်ဥ",
+        "type": "Multi",
+        "modifier": null,
+        "ingredientList": []
+      }
+    ]
+  },
+  {
+    "id": "ITEM696",
+    "name": "မင်းကတော်ထမင်း ပုဇွန်",
+    "aliases": [
+      "မင်းကတော်ထမင်း ပုဇွန်",
+      "မင်းကတော်ထမင်းပုဇွန်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 7000,
+    "category": "12=ထမင်းနှင့်ပြုလုပ်သောအသုပ်များ ",
+    "category_id": "MAIN19",
+    "available": true,
+    "source_id": 1019,
+    "variation_list": [
+      {
+        "id": 133,
+        "boId": "VARIATION90",
+        "entityStatus": "ACTIVE",
+        "createdDate": "2025-09-21 14:45:42",
+        "modifiedDate": "2025-09-21 14:45:42",
+        "name": "မင်းကတော်ထမင်း ပုဇွန်",
+        "type": "Multi",
+        "modifier": null,
+        "ingredientList": []
+      }
+    ]
+  },
+  {
+    "id": "ITEM694",
+    "name": "မင်းကတော်ထမင်းသုပ် အလွတ်",
+    "aliases": [
+      "မင်းကတော်ထမင်းသုပ် အလွတ်",
+      "မင်းကတော်ထမင်းသုပ်အလွတ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 4000,
+    "category": "12=ထမင်းနှင့်ပြုလုပ်သောအသုပ်များ ",
+    "category_id": "MAIN19",
+    "available": true,
+    "source_id": 1017,
+    "variation_list": [
+      {
+        "id": 131,
+        "boId": "VARIATION88",
+        "entityStatus": "ACTIVE",
+        "createdDate": "2025-09-21 14:43:41",
+        "modifiedDate": "2025-09-21 14:43:41",
+        "name": "မင်းကတော်ထမင်းသုတ်အလွတ်",
+        "type": "Multi",
+        "modifier": null,
+        "ingredientList": []
+      }
+    ]
+  },
+  {
+    "id": "ITEM253",
+    "name": "အာလူးထမင်းနှယ်ကြက်ဥ",
+    "aliases": [
+      "အာလူးထမင်းနှယ်ကြက်ဥ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 4500,
+    "category": "12=ထမင်းနှင့်ပြုလုပ်သောအသုပ်များ ",
+    "category_id": "MAIN19",
+    "available": true,
+    "source_id": 576,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM570",
+    "name": "ကြာဇံပြုတ် အလွတ်",
+    "aliases": [
+      "ကြာဇံပြုတ် အလွတ်",
+      "ကြာဇံပြုတ်အလွတ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3500,
+    "category": "13=အရည်သောက်ဟင်းချိုများ ",
+    "category_id": "MAIN6",
+    "available": true,
+    "source_id": 893,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM571",
+    "name": "ခေါက်ဆွဲပြုတ် အလွတ်",
+    "aliases": [
+      "ခေါက်ဆွဲပြုတ် အလွတ်",
+      "ခေါက်ဆွဲပြုတ်အလွတ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3500,
+    "category": "13=အရည်သောက်ဟင်းချိုများ ",
+    "category_id": "MAIN6",
+    "available": true,
+    "source_id": 894,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM572",
+    "name": "ဆိတ်စွတ်ပြုပ်",
+    "aliases": [
+      "ဆိတ်စွတ်ပြုပ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 9500,
+    "category": "13=အရည်သောက်ဟင်းချိုများ ",
+    "category_id": "MAIN6",
+    "available": true,
+    "source_id": 895,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM569",
+    "name": "ဆိတ်ရင်နုရိုးစွပ်",
+    "aliases": [
+      "ဆိတ်ရင်နုရိုးစွပ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 8000,
+    "category": "13=အရည်သောက်ဟင်းချိုများ ",
+    "category_id": "MAIN6",
+    "available": true,
+    "source_id": 892,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM26",
+    "name": "တုန်ယမ်းဟင်းချို",
+    "aliases": [
+      "တုန်ယမ်းဟင်းချို"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 13000,
+    "category": "13=အရည်သောက်ဟင်းချိုများ ",
+    "category_id": "MAIN6",
+    "available": true,
+    "source_id": 349,
+    "variation_list": [
+      {
+        "id": 45,
+        "boId": "VARIATION1",
+        "entityStatus": "ACTIVE",
+        "createdDate": "2023-01-04 20:46:22",
+        "modifiedDate": null,
+        "name": "အသားရွေးချယ်ပါ",
+        "type": "Single",
+        "modifier": null,
+        "ingredientList": [
+          {
+            "id": 131,
+            "boId": "INGREDIENT2",
+            "entityStatus": "ACTIVE",
+            "createdDate": "2023-01-04",
+            "modifiedDate": null,
+            "name": "ကြက်",
+            "mmName": "",
+            "extraPrice": "0",
+            "ingredientStatus": "AVAILABLE",
+            "modifier": null,
+            "orderCount": null
+          },
+          {
+            "id": 132,
+            "boId": "INGREDIENT3",
+            "entityStatus": "ACTIVE",
+            "createdDate": "2023-01-04",
+            "modifiedDate": null,
+            "name": "ဝက်",
+            "mmName": "",
+            "extraPrice": "0",
+            "ingredientStatus": "AVAILABLE",
+            "modifier": null,
+            "orderCount": null
+          },
+          {
+            "id": 133,
+            "boId": "INGREDIENT4",
+            "entityStatus": "ACTIVE",
+            "createdDate": "2023-01-04",
+            "modifiedDate": null,
+            "name": "ပင်လယ်စာ",
+            "mmName": "",
+            "extraPrice": "0",
+            "ingredientStatus": "AVAILABLE",
+            "modifier": null,
+            "orderCount": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ITEM32",
+    "name": "ပဲကြာဇံမာလာဟင်းချို",
+    "aliases": [
+      "ပဲကြာဇံမာလာဟင်းချို"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 7500,
+    "category": "13=အရည်သောက်ဟင်းချိုများ ",
+    "category_id": "MAIN6",
+    "available": true,
+    "source_id": 355,
+    "variation_list": [
+      {
+        "id": 51,
+        "boId": "VARIATION7",
+        "entityStatus": "ACTIVE",
+        "createdDate": "2023-01-04 20:51:49",
+        "modifiedDate": null,
+        "name": "အသားရွေးချယ်ပါ",
+        "type": "Single",
+        "modifier": null,
+        "ingredientList": [
+          {
+            "id": 149,
+            "boId": "INGREDIENT20",
+            "entityStatus": "ACTIVE",
+            "createdDate": "2023-01-04",
+            "modifiedDate": null,
+            "name": "ကြက်",
+            "mmName": "",
+            "extraPrice": "0",
+            "ingredientStatus": "AVAILABLE",
+            "modifier": null,
+            "orderCount": null
+          },
+          {
+            "id": 150,
+            "boId": "INGREDIENT21",
+            "entityStatus": "ACTIVE",
+            "createdDate": "2023-01-04",
+            "modifiedDate": null,
+            "name": "ဝက်",
+            "mmName": "",
+            "extraPrice": "0",
+            "ingredientStatus": "AVAILABLE",
+            "modifier": null,
+            "orderCount": null
+          },
+          {
+            "id": 151,
+            "boId": "INGREDIENT22",
+            "entityStatus": "ACTIVE",
+            "createdDate": "2023-01-04",
+            "modifiedDate": null,
+            "name": "ပင်လယ်စာ",
+            "mmName": "",
+            "extraPrice": "0",
+            "ingredientStatus": "AVAILABLE",
+            "modifier": null,
+            "orderCount": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ITEM29",
+    "name": "မာလာဟင်းချို ကြက်။ဝက်",
+    "aliases": [
+      "မာလာဟင်းချို ကြက်။ဝက်",
+      "မာလာဟင်းချိုကြက်။ဝက်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 8000,
+    "category": "13=အရည်သောက်ဟင်းချိုများ ",
+    "category_id": "MAIN6",
+    "available": true,
+    "source_id": 352,
+    "variation_list": [
+      {
+        "id": 48,
+        "boId": "VARIATION4",
+        "entityStatus": "ACTIVE",
+        "createdDate": "2023-01-04 20:48:52",
+        "modifiedDate": null,
+        "name": "အသားရွေးချယ်ပါ",
+        "type": "Single",
+        "modifier": null,
+        "ingredientList": [
+          {
+            "id": 140,
+            "boId": "INGREDIENT11",
+            "entityStatus": "ACTIVE",
+            "createdDate": "2023-01-04",
+            "modifiedDate": null,
+            "name": "ကြက်",
+            "mmName": "",
+            "extraPrice": "0",
+            "ingredientStatus": "AVAILABLE",
+            "modifier": null,
+            "orderCount": null
+          },
+          {
+            "id": 141,
+            "boId": "INGREDIENT12",
+            "entityStatus": "ACTIVE",
+            "createdDate": "2023-01-04",
+            "modifiedDate": null,
+            "name": "ဝက်",
+            "mmName": "",
+            "extraPrice": "0",
+            "ingredientStatus": "AVAILABLE",
+            "modifier": null,
+            "orderCount": null
+          },
+          {
+            "id": 142,
+            "boId": "INGREDIENT13",
+            "entityStatus": "ACTIVE",
+            "createdDate": "2023-01-04",
+            "modifiedDate": null,
+            "name": "ပင်လယ်စာ",
+            "mmName": "",
+            "extraPrice": "0",
+            "ingredientStatus": "AVAILABLE",
+            "modifier": null,
+            "orderCount": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ITEM28",
+    "name": "ယိုးဒယားဟင်းချို",
+    "aliases": [
+      "ယိုးဒယားဟင်းချို"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 12000,
+    "category": "13=အရည်သောက်ဟင်းချိုများ ",
+    "category_id": "MAIN6",
+    "available": true,
+    "source_id": 351,
+    "variation_list": [
+      {
+        "id": 47,
+        "boId": "VARIATION3",
+        "entityStatus": "ACTIVE",
+        "createdDate": "2023-01-04 20:48:06",
+        "modifiedDate": null,
+        "name": "အသားရွေးချယ်ပါ",
+        "type": "Single",
+        "modifier": null,
+        "ingredientList": [
+          {
+            "id": 137,
+            "boId": "INGREDIENT8",
+            "entityStatus": "ACTIVE",
+            "createdDate": "2023-01-04",
+            "modifiedDate": null,
+            "name": "ကြက်",
+            "mmName": "",
+            "extraPrice": "0",
+            "ingredientStatus": "AVAILABLE",
+            "modifier": null,
+            "orderCount": null
+          },
+          {
+            "id": 138,
+            "boId": "INGREDIENT9",
+            "entityStatus": "ACTIVE",
+            "createdDate": "2023-01-04",
+            "modifiedDate": null,
+            "name": "ဝက်",
+            "mmName": "",
+            "extraPrice": "0",
+            "ingredientStatus": "AVAILABLE",
+            "modifier": null,
+            "orderCount": null
+          },
+          {
+            "id": 139,
+            "boId": "INGREDIENT10",
+            "entityStatus": "ACTIVE",
+            "createdDate": "2023-01-04",
+            "modifiedDate": null,
+            "name": "ပင်လယ်စာ",
+            "mmName": "",
+            "extraPrice": "0",
+            "ingredientStatus": "AVAILABLE",
+            "modifier": null,
+            "orderCount": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ITEM31",
+    "name": "သောက်ဆမ်း ကြက်။ဝက်",
+    "aliases": [
+      "သောက်ဆမ်း ကြက်။ဝက်",
+      "သောက်ဆမ်းကြက်။ဝက်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 13000,
+    "category": "13=အရည်သောက်ဟင်းချိုများ ",
+    "category_id": "MAIN6",
+    "available": true,
+    "source_id": 354,
+    "variation_list": [
+      {
+        "id": 50,
+        "boId": "VARIATION6",
+        "entityStatus": "ACTIVE",
+        "createdDate": "2023-01-04 20:50:18",
+        "modifiedDate": null,
+        "name": "အသားရွေးချယ်ပါ",
+        "type": "Single",
+        "modifier": null,
+        "ingredientList": [
+          {
+            "id": 146,
+            "boId": "INGREDIENT17",
+            "entityStatus": "ACTIVE",
+            "createdDate": "2023-01-04",
+            "modifiedDate": null,
+            "name": "ကြက်",
+            "mmName": "",
+            "extraPrice": "0",
+            "ingredientStatus": "AVAILABLE",
+            "modifier": null,
+            "orderCount": null
+          },
+          {
+            "id": 147,
+            "boId": "INGREDIENT18",
+            "entityStatus": "ACTIVE",
+            "createdDate": "2023-01-04",
+            "modifiedDate": null,
+            "name": "ဝက်",
+            "mmName": "",
+            "extraPrice": "0",
+            "ingredientStatus": "AVAILABLE",
+            "modifier": null,
+            "orderCount": null
+          },
+          {
+            "id": 148,
+            "boId": "INGREDIENT19",
+            "entityStatus": "ACTIVE",
+            "createdDate": "2023-01-04",
+            "modifiedDate": null,
+            "name": "ပင်လယ်စာ",
+            "mmName": "",
+            "extraPrice": "0",
+            "ingredientStatus": "AVAILABLE",
+            "modifier": null,
+            "orderCount": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ITEM27",
+    "name": "၁၂မျိုးဟင်းချို",
+    "aliases": [
+      "၁၂မျိုးဟင်းချို"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 13000,
+    "category": "13=အရည်သောက်ဟင်းချိုများ ",
+    "category_id": "MAIN6",
+    "available": true,
+    "source_id": 350,
+    "variation_list": [
+      {
+        "id": 46,
+        "boId": "VARIATION2",
+        "entityStatus": "ACTIVE",
+        "createdDate": "2023-01-04 20:47:14",
+        "modifiedDate": null,
+        "name": "အသားရွေးချယ်ပါ",
+        "type": "Single",
+        "modifier": null,
+        "ingredientList": [
+          {
+            "id": 134,
+            "boId": "INGREDIENT5",
+            "entityStatus": "ACTIVE",
+            "createdDate": "2023-01-04",
+            "modifiedDate": null,
+            "name": "ကြက်",
+            "mmName": "",
+            "extraPrice": "0",
+            "ingredientStatus": "AVAILABLE",
+            "modifier": null,
+            "orderCount": null
+          },
+          {
+            "id": 135,
+            "boId": "INGREDIENT6",
+            "entityStatus": "ACTIVE",
+            "createdDate": "2023-01-04",
+            "modifiedDate": null,
+            "name": "ဝက်",
+            "mmName": "",
+            "extraPrice": "0",
+            "ingredientStatus": "AVAILABLE",
+            "modifier": null,
+            "orderCount": null
+          },
+          {
+            "id": 136,
+            "boId": "INGREDIENT7",
+            "entityStatus": "ACTIVE",
+            "createdDate": "2023-01-04",
+            "modifiedDate": null,
+            "name": "ပင်လယ်စာ",
+            "mmName": "",
+            "extraPrice": "0",
+            "ingredientStatus": "AVAILABLE",
+            "modifier": null,
+            "orderCount": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ITEM71",
+    "name": "ကြက်ကြွတ်ကြော်",
+    "aliases": [
+      "ကြက်ကြွတ်ကြော်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 15000,
+    "category": "14=ကြက်သားနှင့်တွဲရသောဟင်းနှင့်အသုပ်များ",
+    "category_id": "MAIN8",
+    "available": true,
+    "source_id": 394,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM68",
+    "name": "ကြက်ကြွတ်သံပုရာ",
+    "aliases": [
+      "ကြက်ကြွတ်သံပုရာ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 12000,
+    "category": "14=ကြက်သားနှင့်တွဲရသောဟင်းနှင့်အသုပ်များ",
+    "category_id": "MAIN8",
+    "available": true,
+    "source_id": 391,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM67",
+    "name": "ကြက်တောက်တောက်ကြော်",
+    "aliases": [
+      "ကြက်တောက်တောက်ကြော်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 15000,
+    "category": "14=ကြက်သားနှင့်တွဲရသောဟင်းနှင့်အသုပ်များ",
+    "category_id": "MAIN8",
+    "available": true,
+    "source_id": 390,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM76",
+    "name": "ကြက်ပေါင်းချဉ်စပ်",
+    "aliases": [
+      "ကြက်ပေါင်းချဉ်စပ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 12000,
+    "category": "14=ကြက်သားနှင့်တွဲရသောဟင်းနှင့်အသုပ်များ",
+    "category_id": "MAIN8",
+    "available": true,
+    "source_id": 399,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM66",
+    "name": "ကြက်ရခိုင်ချက်",
+    "aliases": [
+      "ကြက်ရခိုင်ချက်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 12000,
+    "category": "14=ကြက်သားနှင့်တွဲရသောဟင်းနှင့်အသုပ်များ",
+    "category_id": "MAIN8",
+    "available": true,
+    "source_id": 389,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM69",
+    "name": "ကြက်သားချောင်းကြော်",
+    "aliases": [
+      "ကြက်သားချောင်းကြော်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 12000,
+    "category": "14=ကြက်သားနှင့်တွဲရသောဟင်းနှင့်အသုပ်များ",
+    "category_id": "MAIN8",
+    "available": true,
+    "source_id": 392,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM70",
+    "name": "ကြက်သားပြားကြော်",
+    "aliases": [
+      "ကြက်သားပြားကြော်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 12000,
+    "category": "14=ကြက်သားနှင့်တွဲရသောဟင်းနှင့်အသုပ်များ",
+    "category_id": "MAIN8",
+    "available": true,
+    "source_id": 393,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM72",
+    "name": "ကြက်သားလုံးကြော်",
+    "aliases": [
+      "ကြက်သားလုံးကြော်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 15000,
+    "category": "14=ကြက်သားနှင့်တွဲရသောဟင်းနှင့်အသုပ်များ",
+    "category_id": "MAIN8",
+    "available": true,
+    "source_id": 395,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM74",
+    "name": "ကြက်သားလုံးစွပ်ပြုတ်",
+    "aliases": [
+      "ကြက်သားလုံးစွပ်ပြုတ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 6500,
+    "category": "14=ကြက်သားနှင့်တွဲရသောဟင်းနှင့်အသုပ်များ",
+    "category_id": "MAIN8",
+    "available": true,
+    "source_id": 397,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM73",
+    "name": "ကြက်‌ေပါင်းစွပ်ပြုတ်",
+    "aliases": [
+      "ကြက်‌ေပါင်းစွပ်ပြုတ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 6500,
+    "category": "14=ကြက်သားနှင့်တွဲရသောဟင်းနှင့်အသုပ်များ",
+    "category_id": "MAIN8",
+    "available": true,
+    "source_id": 396,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM592",
+    "name": "ကြက်သားပူရီ",
+    "aliases": [
+      "ကြက်သားပူရီ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 8000,
+    "category": "16=ပူရီ နင့် တိုရှည် ",
+    "category_id": "MAIN14",
+    "available": true,
+    "source_id": 915,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM537",
+    "name": "ကြက်ဥတိုရှည်",
+    "aliases": [
+      "ကြက်ဥတိုရှည်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 5000,
+    "category": "16=ပူရီ နင့် တိုရှည် ",
+    "category_id": "MAIN14",
+    "available": true,
+    "source_id": 860,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM589",
+    "name": "ချာပါတီ",
+    "aliases": [
+      "ချာပါတီ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 4000,
+    "category": "16=ပူရီ နင့် တိုရှည် ",
+    "category_id": "MAIN14",
+    "available": true,
+    "source_id": 912,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM782",
+    "name": "ချာပါတီပါဆယ်",
+    "aliases": [
+      "ချာပါတီပါဆယ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 5000,
+    "category": "16=ပူရီ နင့် တိုရှည် ",
+    "category_id": "MAIN14",
+    "available": true,
+    "source_id": 1105,
+    "variation_list": [
+      {
+        "id": 144,
+        "boId": "VARIATION101",
+        "entityStatus": "ACTIVE",
+        "createdDate": "2026-10-01 15:16:12",
+        "modifiedDate": "2026-10-01 15:16:12",
+        "name": "ချာပါတီပါဆယ်",
+        "type": "Multi",
+        "modifier": null,
+        "ingredientList": []
+      }
+    ]
+  },
+  {
+    "id": "ITEM591",
+    "name": "ဆိတ်သားပူရီ",
+    "aliases": [
+      "ဆိတ်သားပူရီ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 10000,
+    "category": "16=ပူရီ နင့် တိုရှည် ",
+    "category_id": "MAIN14",
+    "available": true,
+    "source_id": 914,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM536",
+    "name": "တိုရှည် ပါဆယ်",
+    "aliases": [
+      "တိုရှည် ပါဆယ်",
+      "တိုရှည်ပါဆယ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 5000,
+    "category": "16=ပူရီ နင့် တိုရှည် ",
+    "category_id": "MAIN14",
+    "available": true,
+    "source_id": 859,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM593",
+    "name": "ပူရီအလွတ်",
+    "aliases": [
+      "ပူရီအလွတ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 1000,
+    "category": "16=ပူရီ နင့် တိုရှည် ",
+    "category_id": "MAIN14",
+    "available": true,
+    "source_id": 916,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM590",
+    "name": "မီနီပူရီ",
+    "aliases": [
+      "မီနီပူရီ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3000,
+    "category": "16=ပူရီ နင့် တိုရှည် ",
+    "category_id": "MAIN14",
+    "available": true,
+    "source_id": 913,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM587",
+    "name": "အာလူးပူရီ",
+    "aliases": [
+      "အာလူးပူရီ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 4000,
+    "category": "16=ပူရီ နင့် တိုရှည် ",
+    "category_id": "MAIN14",
+    "available": true,
+    "source_id": 910,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM588",
+    "name": "အားလူးပူရီပါဆယ်",
+    "aliases": [
+      "အားလူးပူရီပါဆယ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 5000,
+    "category": "16=ပူရီ နင့် တိုရှည် ",
+    "category_id": "MAIN14",
+    "available": true,
+    "source_id": 911,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM701",
+    "name": "Hikari အအေး",
+    "aliases": [
+      "Hikari အအေး",
+      "Hikariအအေး"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 2200,
+    "category": "19=အအေးသံဗူး",
+    "category_id": "MAIN31",
+    "available": true,
+    "source_id": 1024,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM699",
+    "name": "M 150 သံဗူး",
+    "aliases": [
+      "M 150 သံဗူး",
+      "M150သံဗူး"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 2500,
+    "category": "19=အအေးသံဗူး",
+    "category_id": "MAIN31",
+    "available": true,
+    "source_id": 1022,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM552",
+    "name": "M=150",
+    "aliases": [
+      "M=150"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 2000,
+    "category": "19=အအေးသံဗူး",
+    "category_id": "MAIN31",
+    "available": true,
+    "source_id": 875,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM682",
+    "name": "Mr - 30 အအေး သံဗူး",
+    "aliases": [
+      "Mr - 30 အအေး သံဗူး",
+      "Mr-30အအေးသံဗူး"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 2500,
+    "category": "19=အအေးသံဗူး",
+    "category_id": "MAIN31",
+    "available": true,
+    "source_id": 1005,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM671",
+    "name": "Spider အအေး",
+    "aliases": [
+      "Spider အအေး",
+      "Spiderအအေး"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 1500,
+    "category": "19=အအေးသံဗူး",
+    "category_id": "MAIN31",
+    "available": true,
+    "source_id": 994,
+    "variation_list": [
+      {
+        "id": 126,
+        "boId": "VARIATION83",
+        "entityStatus": "ACTIVE",
+        "createdDate": "2024-09-28 13:35:08",
+        "modifiedDate": "2024-09-28 13:35:08",
+        "name": "Spiderအအေး",
+        "type": "Multi",
+        "modifier": null,
+        "ingredientList": []
+      }
+    ]
+  },
+  {
+    "id": "ITEM704",
+    "name": "WinSton (1) ပွဲ",
+    "aliases": [
+      "WinSton (1) ပွဲ",
+      "WinSton(1)ပွဲ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 1000,
+    "category": "19=အအေးသံဗူး",
+    "category_id": "MAIN31",
+    "available": true,
+    "source_id": 1027,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM703",
+    "name": "Zeno အအေး",
+    "aliases": [
+      "Zeno အအေး",
+      "Zenoအအေး"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 2000,
+    "category": "19=အအေးသံဗူး",
+    "category_id": "MAIN31",
+    "available": true,
+    "source_id": 1026,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM711",
+    "name": "ကိုလာ သံဗူး",
+    "aliases": [
+      "ကိုလာ သံဗူး",
+      "ကိုလာသံဗူး"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3000,
+    "category": "19=အအေးသံဗူး",
+    "category_id": "MAIN31",
+    "available": true,
+    "source_id": 1034,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM553",
+    "name": "ကျွဲစိမ်း ပုလင်း",
+    "aliases": [
+      "ကျွဲစိမ်း ပုလင်း",
+      "ကျွဲစိမ်းပုလင်း"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 2000,
+    "category": "19=အအေးသံဗူး",
+    "category_id": "MAIN31",
+    "available": true,
+    "source_id": 876,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM551",
+    "name": "နို့အေး",
+    "aliases": [
+      "နို့အေး"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 2000,
+    "category": "19=အအေးသံဗူး",
+    "category_id": "MAIN31",
+    "available": true,
+    "source_id": 874,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM712",
+    "name": "ကဗျာကယာ",
+    "aliases": [
+      "ကဗျာကယာ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 2000,
+    "category": "1=မနက်ခင်းအစားအစာများ ",
+    "category_id": "MAIN0",
+    "available": true,
+    "source_id": 1035,
+    "variation_list": [
+      {
+        "id": 142,
+        "boId": "VARIATION99",
+        "entityStatus": "ACTIVE",
+        "createdDate": "2025-11-23 09:31:05",
+        "modifiedDate": "2025-11-23 09:31:05",
+        "name": "ကဗျာကယာ",
+        "type": "Multi",
+        "modifier": null,
+        "ingredientList": []
+      }
+    ]
+  },
+  {
+    "id": "ITEM428",
+    "name": "ငါးသားလိပ်ကြော် တပွဲ",
+    "aliases": [
+      "ငါးသားလိပ်ကြော် တပွဲ",
+      "ငါးသားလိပ်ကြော်တပွဲ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3500,
+    "category": "1=မနက်ခင်းအစားအစာများ ",
+    "category_id": "MAIN0",
+    "available": true,
+    "source_id": 751,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM791",
+    "name": "စမူစာ 1ခု",
+    "aliases": [
+      "စမူစာ 1ခု",
+      "စမူစာ1ခု"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 800,
+    "category": "1=မနက်ခင်းအစားအစာများ ",
+    "category_id": "MAIN0",
+    "available": true,
+    "source_id": 1114,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM792",
+    "name": "စမူဆာ 2ခု",
+    "aliases": [
+      "စမူဆာ 2ခု",
+      "စမူဆာ2ခု"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 1500,
+    "category": "1=မနက်ခင်းအစားအစာများ ",
+    "category_id": "MAIN0",
+    "available": true,
+    "source_id": 1115,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM793",
+    "name": "စမူဆာ 3 ခု တပွဲ",
+    "aliases": [
+      "စမူဆာ 3 ခု တပွဲ",
+      "စမူဆာ3ခုတပွဲ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 2000,
+    "category": "1=မနက်ခင်းအစားအစာများ ",
+    "category_id": "MAIN0",
+    "available": true,
+    "source_id": 1116,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM466",
+    "name": "ပေါင်မုန့်လွတ်",
+    "aliases": [
+      "ပေါင်မုန့်လွတ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 500,
+    "category": "1=မနက်ခင်းအစားအစာများ ",
+    "category_id": "MAIN0",
+    "available": true,
+    "source_id": 789,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM433",
+    "name": "ပဲဟင်း စမူဆာ သုပ်",
+    "aliases": [
+      "ပဲဟင်း စမူဆာ သုပ်",
+      "ပဲဟင်းစမူဆာသုပ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3000,
+    "category": "1=မနက်ခင်းအစားအစာများ ",
+    "category_id": "MAIN0",
+    "available": true,
+    "source_id": 756,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM733",
+    "name": "မန်မြို့တော် ပေါက်စီ",
+    "aliases": [
+      "မန်မြို့တော် ပေါက်စီ",
+      "မန်မြို့တော်ပေါက်စီ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3000,
+    "category": "1=မနက်ခင်းအစားအစာများ ",
+    "category_id": "MAIN0",
+    "available": true,
+    "source_id": 1056,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM732",
+    "name": "ဝက် အသားပေါင်း",
+    "aliases": [
+      "ဝက် အသားပေါင်း",
+      "ဝက်အသားပေါင်း"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 2000,
+    "category": "1=မနက်ခင်းအစားအစာများ ",
+    "category_id": "MAIN0",
+    "available": true,
+    "source_id": 1055,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM684",
+    "name": "အားလူး ကသလစ်",
+    "aliases": [
+      "အားလူး ကသလစ်",
+      "အားလူးကသလစ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 500,
+    "category": "1=မနက်ခင်းအစားအစာများ ",
+    "category_id": "MAIN0",
+    "available": true,
+    "source_id": 1007,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM778",
+    "name": "ကြက်ကြော်",
+    "aliases": [
+      "ကြက်ကြော်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 5000,
+    "category": "2=ထမင်းကြော်များ ",
+    "category_id": "MAIN41",
+    "available": true,
+    "source_id": 1101,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM693",
+    "name": "ဆိတ်ထမင်းကြော်ပုံစား",
+    "aliases": [
+      "ဆိတ်ထမင်းကြော်ပုံစား"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 8000,
+    "category": "2=ထမင်းကြော်များ ",
+    "category_id": "MAIN41",
+    "available": true,
+    "source_id": 1016,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM380",
+    "name": "ထမင်းကြော် ကြက်သဲမြစ်",
+    "aliases": [
+      "ထမင်းကြော် ကြက်သဲမြစ်",
+      "ထမင်းကြော်ကြက်သဲမြစ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 6500,
+    "category": "2=ထမင်းကြော်များ ",
+    "category_id": "MAIN41",
+    "available": true,
+    "source_id": 703,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM381",
+    "name": "ထမင်းကြော် ကြက်ဥ",
+    "aliases": [
+      "ထမင်းကြော် ကြက်ဥ",
+      "ထမင်းကြော်ကြက်ဥ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 4000,
+    "category": "2=ထမင်းကြော်များ ",
+    "category_id": "MAIN41",
+    "available": true,
+    "source_id": 704,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM702",
+    "name": "ထမင်းကြော် ဘဲဥချဥ်ဟင်း",
+    "aliases": [
+      "ထမင်းကြော် ဘဲဥချဥ်ဟင်း",
+      "ထမင်းကြော်ဘဲဥချဥ်ဟင်း"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 4700,
+    "category": "2=ထမင်းကြော်များ ",
+    "category_id": "MAIN41",
+    "available": true,
+    "source_id": 1025,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM687",
+    "name": "ထမင်းကြော်ပုံစား ကြက်သဲမြစ်",
+    "aliases": [
+      "ထမင်းကြော်ပုံစား ကြက်သဲမြစ်",
+      "ထမင်းကြော်ပုံစားကြက်သဲမြစ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 6000,
+    "category": "2=ထမင်းကြော်များ ",
+    "category_id": "MAIN41",
+    "available": true,
+    "source_id": 1010,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM685",
+    "name": "ထမင်းကြော်ပုံစား ဝက်",
+    "aliases": [
+      "ထမင်းကြော်ပုံစား ဝက်",
+      "ထမင်းကြော်ပုံစားဝက်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 6000,
+    "category": "2=ထမင်းကြော်များ ",
+    "category_id": "MAIN41",
+    "available": true,
+    "source_id": 1008,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM686",
+    "name": "ထမင်းကြော်ပုံစားကြက်",
+    "aliases": [
+      "ထမင်းကြော်ပုံစားကြက်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 6000,
+    "category": "2=ထမင်းကြော်များ ",
+    "category_id": "MAIN41",
+    "available": true,
+    "source_id": 1009,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM688",
+    "name": "ထမင်းကြော်ပုံစားငါးခြောက်",
+    "aliases": [
+      "ထမင်းကြော်ပုံစားငါးခြောက်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 6000,
+    "category": "2=ထမင်းကြော်များ ",
+    "category_id": "MAIN41",
+    "available": true,
+    "source_id": 1011,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM690",
+    "name": "ထမင်းကြော်ပုံစားဘဲဥ",
+    "aliases": [
+      "ထမင်းကြော်ပုံစားဘဲဥ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 4700,
+    "category": "2=ထမင်းကြော်များ ",
+    "category_id": "MAIN41",
+    "available": true,
+    "source_id": 1013,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM675",
+    "name": "ကြက်ပေါင်း ခရုဆီ",
+    "aliases": [
+      "ကြက်ပေါင်း ခရုဆီ",
+      "ကြက်ပေါင်းခရုဆီ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 7500,
+    "category": "3=ကြက်ပေါင်း။ဝက်ပေါင်း ",
+    "category_id": "MAIN42",
+    "available": true,
+    "source_id": 998,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM410",
+    "name": "ကြက်ပေါင်းကွတ်တိယိုပြုတ်။သုပ်",
+    "aliases": [
+      "ကြက်ပေါင်းကွတ်တိယိုပြုတ်။သုပ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 7500,
+    "category": "3=ကြက်ပေါင်း။ဝက်ပေါင်း ",
+    "category_id": "MAIN42",
+    "available": true,
+    "source_id": 733,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM692",
+    "name": "ကြက်ပေါင်းစွပ်ပြုတ်",
+    "aliases": [
+      "ကြက်ပေါင်းစွပ်ပြုတ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 6500,
+    "category": "3=ကြက်ပေါင်း။ဝက်ပေါင်း ",
+    "category_id": "MAIN42",
+    "available": true,
+    "source_id": 1015,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM412",
+    "name": "နံရိုးပေါင်းကွတ်တိယိုပြုတ်။သုပ်",
+    "aliases": [
+      "နံရိုးပေါင်းကွတ်တိယိုပြုတ်။သုပ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 7500,
+    "category": "3=ကြက်ပေါင်း။ဝက်ပေါင်း ",
+    "category_id": "MAIN42",
+    "available": true,
+    "source_id": 735,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM401",
+    "name": "နံရိုးပေါင်းခေါက်ဆွဲ ချို။ရှူးရှဲ",
+    "aliases": [
+      "နံရိုးပေါင်းခေါက်ဆွဲ ချို။ရှူးရှဲ",
+      "နံရိုးပေါင်းခေါက်ဆွဲချို။ရှူးရှဲ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 8000,
+    "category": "3=ကြက်ပေါင်း။ဝက်ပေါင်း ",
+    "category_id": "MAIN42",
+    "available": true,
+    "source_id": 724,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM421",
+    "name": "နံရိုးပေါင်းဆီချက်",
+    "aliases": [
+      "နံရိုးပေါင်းဆီချက်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 8000,
+    "category": "3=ကြက်ပေါင်း။ဝက်ပေါင်း ",
+    "category_id": "MAIN42",
+    "available": true,
+    "source_id": 744,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM411",
+    "name": "ဝက်ပေါင်းကွတ်တိယိုပြုတ်။သုပ်",
+    "aliases": [
+      "ဝက်ပေါင်းကွတ်တိယိုပြုတ်။သုပ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 8500,
+    "category": "3=ကြက်ပေါင်း။ဝက်ပေါင်း ",
+    "category_id": "MAIN42",
+    "available": true,
+    "source_id": 734,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM668",
+    "name": "ဝက်လက်ပေါင်းဆီချက်",
+    "aliases": [
+      "ဝက်လက်ပေါင်းဆီချက်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 8000,
+    "category": "3=ကြက်ပေါင်း။ဝက်ပေါင်း ",
+    "category_id": "MAIN42",
+    "available": true,
+    "source_id": 991,
+    "variation_list": [
+      {
+        "id": 124,
+        "boId": "VARIATION81",
+        "entityStatus": "ACTIVE",
+        "createdDate": "2024-08-09 22:30:41",
+        "modifiedDate": "2024-08-09 22:30:41",
+        "name": "ကြက်ပေါင်း ဝက်ပေါင်း",
+        "type": "Multi",
+        "modifier": null,
+        "ingredientList": []
+      }
+    ]
+  },
+  {
+    "id": "ITEM395",
+    "name": "သုံးထပ်သားပေါင်းမာလာဆီချက်",
+    "aliases": [
+      "သုံးထပ်သားပေါင်းမာလာဆီချက်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 8000,
+    "category": "3=ကြက်ပေါင်း။ဝက်ပေါင်း ",
+    "category_id": "MAIN42",
+    "available": true,
+    "source_id": 718,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM400",
+    "name": "သုံးထပ်သား‌ပေါင်းခေါက်ဆွဲ။ချို။ရှူးရှဲ",
+    "aliases": [
+      "သုံးထပ်သား‌ပေါင်းခေါက်ဆွဲ။ချို။ရှူးရှဲ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 8000,
+    "category": "3=ကြက်ပေါင်း။ဝက်ပေါင်း ",
+    "category_id": "MAIN42",
+    "available": true,
+    "source_id": 723,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM485",
+    "name": "ကြက်သွန်ကြော်",
+    "aliases": [
+      "ကြက်သွန်ကြော်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 1000,
+    "category": "4=အကြော်များ ",
+    "category_id": "MAIN44",
+    "available": true,
+    "source_id": 808,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM464",
+    "name": "ငါးဖယ်",
+    "aliases": [
+      "ငါးဖယ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 1000,
+    "category": "4=အကြော်များ ",
+    "category_id": "MAIN44",
+    "available": true,
+    "source_id": 787,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM463",
+    "name": "ပဲကြော်",
+    "aliases": [
+      "ပဲကြော်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 500,
+    "category": "4=အကြော်များ ",
+    "category_id": "MAIN44",
+    "available": true,
+    "source_id": 786,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM547",
+    "name": "ဘယာ ကြော်",
+    "aliases": [
+      "ဘယာ ကြော်",
+      "ဘယာကြော်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 500,
+    "category": "4=အကြော်များ ",
+    "category_id": "MAIN44",
+    "available": true,
+    "source_id": 870,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM462",
+    "name": "ဘူးသီးကြော်",
+    "aliases": [
+      "ဘူးသီးကြော်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 500,
+    "category": "4=အကြော်များ ",
+    "category_id": "MAIN44",
+    "available": true,
+    "source_id": 785,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM465",
+    "name": "အိုးဘဲဥ",
+    "aliases": [
+      "အိုးဘဲဥ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 1000,
+    "category": "4=အကြော်များ ",
+    "category_id": "MAIN44",
+    "available": true,
+    "source_id": 788,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM665",
+    "name": "ကြက်ဥဟတ်ပလာတာ",
+    "aliases": [
+      "ကြက်ဥဟတ်ပလာတာ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 4500,
+    "category": "7=ပလာတာလိုင်း ",
+    "category_id": "MAIN13",
+    "available": true,
+    "source_id": 988,
+    "variation_list": [
+      {
+        "id": 121,
+        "boId": "VARIATION78",
+        "entityStatus": "ACTIVE",
+        "createdDate": "2024-08-07 22:12:29",
+        "modifiedDate": "2024-08-07 22:12:29",
+        "name": "ပလာတာလိုင်း",
+        "type": "Multi",
+        "modifier": null,
+        "ingredientList": []
+      }
+    ]
+  },
+  {
+    "id": "ITEM583",
+    "name": "စမူဆာသုပ်",
+    "aliases": [
+      "စမူဆာသုပ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3500,
+    "category": "7=ပလာတာလိုင်း ",
+    "category_id": "MAIN13",
+    "available": true,
+    "source_id": 906,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM737",
+    "name": "ထောပတ်သီး ကြက်ဥပလာတာ",
+    "aliases": [
+      "ထောပတ်သီး ကြက်ဥပလာတာ",
+      "ထောပတ်သီးကြက်ဥပလာတာ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 5500,
+    "category": "7=ပလာတာလိုင်း ",
+    "category_id": "MAIN13",
+    "available": true,
+    "source_id": 1060,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM736",
+    "name": "နံပြားချဥ်စပ်",
+    "aliases": [
+      "နံပြားချဥ်စပ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 5000,
+    "category": "7=ပလာတာလိုင်း ",
+    "category_id": "MAIN13",
+    "available": true,
+    "source_id": 1059,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM586",
+    "name": "ပလာတာသုပ်",
+    "aliases": [
+      "ပလာတာသုပ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 4500,
+    "category": "7=ပလာတာလိုင်း ",
+    "category_id": "MAIN13",
+    "available": true,
+    "source_id": 909,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM632",
+    "name": "ပဲဟင်း",
+    "aliases": [
+      "ပဲဟင်း"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 1500,
+    "category": "7=ပလာတာလိုင်း ",
+    "category_id": "MAIN13",
+    "available": true,
+    "source_id": 955,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM585",
+    "name": "ပဲဟင်းပလာတာ",
+    "aliases": [
+      "ပဲဟင်းပလာတာ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3500,
+    "category": "7=ပလာတာလိုင်း ",
+    "category_id": "MAIN13",
+    "available": true,
+    "source_id": 908,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM713",
+    "name": "ပြည်ပလာတာသုပ်",
+    "aliases": [
+      "ပြည်ပလာတာသုပ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 7500,
+    "category": "7=ပလာတာလိုင်း ",
+    "category_id": "MAIN13",
+    "available": true,
+    "source_id": 1036,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM757",
+    "name": "သီးစုံ​ကြက်ဥပလာတာ",
+    "aliases": [
+      "သီးစုံ​ကြက်ဥပလာတာ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 5500,
+    "category": "7=ပလာတာလိုင်း ",
+    "category_id": "MAIN13",
+    "available": true,
+    "source_id": 1080,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM584",
+    "name": "အီကြာကွေးသုပ်",
+    "aliases": [
+      "အီကြာကွေးသုပ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3500,
+    "category": "7=ပလာတာလိုင်း ",
+    "category_id": "MAIN13",
+    "available": true,
+    "source_id": 907,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM578",
+    "name": "ကြက်ပဲ",
+    "aliases": [
+      "ကြက်ပဲ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 7000,
+    "category": "8=ရှမ်းလိုင်း ",
+    "category_id": "MAIN18",
+    "available": true,
+    "source_id": 901,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM660",
+    "name": "ကြက်ဥပေါင်မုန့်ကြော်",
+    "aliases": [
+      "ကြက်ဥပေါင်မုန့်ကြော်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3000,
+    "category": "8=ရှမ်းလိုင်း ",
+    "category_id": "MAIN18",
+    "available": true,
+    "source_id": 983,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM630",
+    "name": "ဆန်စီး တို့ဖူးနွေး",
+    "aliases": [
+      "ဆန်စီး တို့ဖူးနွေး",
+      "ဆန်စီးတို့ဖူးနွေး"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 6000,
+    "category": "8=ရှမ်းလိုင်း ",
+    "category_id": "MAIN18",
+    "available": true,
+    "source_id": 953,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM560",
+    "name": "ဆိတ်ရင်နုရိုး",
+    "aliases": [
+      "ဆိတ်ရင်နုရိုး"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 8500,
+    "category": "8=ရှမ်းလိုင်း ",
+    "category_id": "MAIN18",
+    "available": true,
+    "source_id": 883,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM618",
+    "name": "တို့ဖူးနွေး အလွတ်",
+    "aliases": [
+      "တို့ဖူးနွေး အလွတ်",
+      "တို့ဖူးနွေးအလွတ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 4500,
+    "category": "8=ရှမ်းလိုင်း ",
+    "category_id": "MAIN18",
+    "available": true,
+    "source_id": 941,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM613",
+    "name": "မုန့်ဖက်သုပ် အလွတ်",
+    "aliases": [
+      "မုန့်ဖက်သုပ် အလွတ်",
+      "မုန့်ဖက်သုပ်အလွတ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 2500,
+    "category": "8=ရှမ်းလိုင်း ",
+    "category_id": "MAIN18",
+    "available": true,
+    "source_id": 936,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM662",
+    "name": "ယံယံ ကြက်ဥ",
+    "aliases": [
+      "ယံယံ ကြက်ဥ",
+      "ယံယံကြက်ဥ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 4500,
+    "category": "8=ရှမ်းလိုင်း ",
+    "category_id": "MAIN18",
+    "available": true,
+    "source_id": 985,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM661",
+    "name": "ယံယံ အလွတ်",
+    "aliases": [
+      "ယံယံ အလွတ်",
+      "ယံယံအလွတ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3000,
+    "category": "8=ရှမ်းလိုင်း ",
+    "category_id": "MAIN18",
+    "available": true,
+    "source_id": 984,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM663",
+    "name": "ရှင်းရှင်း ကြာဇံ အလွတ်",
+    "aliases": [
+      "ရှင်းရှင်း ကြာဇံ အလွတ်",
+      "ရှင်းရှင်းကြာဇံအလွတ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3500,
+    "category": "8=ရှမ်းလိုင်း ",
+    "category_id": "MAIN18",
+    "available": true,
+    "source_id": 986,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM629",
+    "name": "ရှမ်းတို့ဖူးနွေး",
+    "aliases": [
+      "ရှမ်းတို့ဖူးနွေး"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 6000,
+    "category": "8=ရှမ်းလိုင်း ",
+    "category_id": "MAIN18",
+    "available": true,
+    "source_id": 952,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM597",
+    "name": "ကော်ရည်ခေါက်ဆွဲကြော်",
+    "aliases": [
+      "ကော်ရည်ခေါက်ဆွဲကြော်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 8000,
+    "category": "9=တရုတ်လိုင်း ",
+    "category_id": "MAIN7",
+    "available": true,
+    "source_id": 920,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM554",
+    "name": "ကြက်သားသုပ်",
+    "aliases": [
+      "ကြက်သားသုပ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 8000,
+    "category": "9=တရုတ်လိုင်း ",
+    "category_id": "MAIN7",
+    "available": true,
+    "source_id": 877,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM619",
+    "name": "မလေးရှား ခေါက်ဆွဲကြော် ကြက်",
+    "aliases": [
+      "မလေးရှား ခေါက်ဆွဲကြော် ကြက်",
+      "မလေးရှားခေါက်ဆွဲကြော်ကြက်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 8000,
+    "category": "9=တရုတ်လိုင်း ",
+    "category_id": "MAIN7",
+    "available": true,
+    "source_id": 942,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM622",
+    "name": "ဝက်နံရိုးနု ချဉ်စပ်",
+    "aliases": [
+      "ဝက်နံရိုးနု ချဉ်စပ်",
+      "ဝက်နံရိုးနုချဉ်စပ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 12000,
+    "category": "9=တရုတ်လိုင်း ",
+    "category_id": "MAIN7",
+    "available": true,
+    "source_id": 945,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM625",
+    "name": "ဝက်နံရိုးနု မာလာဟင်း",
+    "aliases": [
+      "ဝက်နံရိုးနု မာလာဟင်း",
+      "ဝက်နံရိုးနုမာလာဟင်း"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 13000,
+    "category": "9=တရုတ်လိုင်း ",
+    "category_id": "MAIN7",
+    "available": true,
+    "source_id": 948,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM623",
+    "name": "ဝက်နံရိုးနု ‌ကြွတ်ကြော်",
+    "aliases": [
+      "ဝက်နံရိုးနု ‌ကြွတ်ကြော်",
+      "ဝက်နံရိုးနု‌ကြွတ်ကြော်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 12000,
+    "category": "9=တရုတ်လိုင်း ",
+    "category_id": "MAIN7",
+    "available": true,
+    "source_id": 946,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM628",
+    "name": "ဝက်နံရိုးနုကချင်ချက်",
+    "aliases": [
+      "ဝက်နံရိုးနုကချင်ချက်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 12000,
+    "category": "9=တရုတ်လိုင်း ",
+    "category_id": "MAIN7",
+    "available": true,
+    "source_id": 951,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM627",
+    "name": "ဝက်နံရိုးနုချိုချဉ်",
+    "aliases": [
+      "ဝက်နံရိုးနုချိုချဉ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 12000,
+    "category": "9=တရုတ်လိုင်း ",
+    "category_id": "MAIN7",
+    "available": true,
+    "source_id": 950,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM626",
+    "name": "ဝက်နံရိုးနုစွပ်ပြုပ်",
+    "aliases": [
+      "ဝက်နံရိုးနုစွပ်ပြုပ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 8000,
+    "category": "9=တရုတ်လိုင်း ",
+    "category_id": "MAIN7",
+    "available": true,
+    "source_id": 949,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM624",
+    "name": "ဝက်နံရိုးနုထမင်းပေါင်း",
+    "aliases": [
+      "ဝက်နံရိုးနုထမင်းပေါင်း"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 9000,
+    "category": "9=တရုတ်လိုင်း ",
+    "category_id": "MAIN7",
+    "available": true,
+    "source_id": 947,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM715",
+    "name": "ညှပ် အလွတ်",
+    "aliases": [
+      "ညှပ် အလွတ်",
+      "ညှပ်အလွတ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 2500,
+    "category": "မုန့်ဟင်းငါး။ညှပ်။အုန်းနို့။",
+    "category_id": "MAIN50",
+    "available": true,
+    "source_id": 1038,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM717",
+    "name": "မုန့်ဟင်းငါး ငါးဖယ်",
+    "aliases": [
+      "မုန့်ဟင်းငါး ငါးဖယ်",
+      "မုန့်ဟင်းငါးငါးဖယ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3500,
+    "category": "မုန့်ဟင်းငါး။ညှပ်။အုန်းနို့။",
+    "category_id": "MAIN50",
+    "available": true,
+    "source_id": 1040,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM714",
+    "name": "မုန့်ဟင်းငါး အလွတ်",
+    "aliases": [
+      "မုန့်ဟင်းငါး အလွတ်",
+      "မုန့်ဟင်းငါးအလွတ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 2500,
+    "category": "မုန့်ဟင်းငါး။ညှပ်။အုန်းနို့။",
+    "category_id": "MAIN50",
+    "available": true,
+    "source_id": 1037,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM718",
+    "name": "မုန့်ဟင်းငါး အိုးဘဲဥ",
+    "aliases": [
+      "မုန့်ဟင်းငါး အိုးဘဲဥ",
+      "မုန့်ဟင်းငါးအိုးဘဲဥ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3500,
+    "category": "မုန့်ဟင်းငါး။ညှပ်။အုန်းနို့။",
+    "category_id": "MAIN50",
+    "available": true,
+    "source_id": 1041,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM719",
+    "name": "မုန့်ဟင်းငါး အီကြာကွေး",
+    "aliases": [
+      "မုန့်ဟင်းငါး အီကြာကွေး",
+      "မုန့်ဟင်းငါးအီကြာကွေး"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3500,
+    "category": "မုန့်ဟင်းငါး။ညှပ်။အုန်းနို့။",
+    "category_id": "MAIN50",
+    "available": true,
+    "source_id": 1042,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM716",
+    "name": "မုန့်ဟင်းငါးအကြော်",
+    "aliases": [
+      "မုန့်ဟင်းငါးအကြော်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3000,
+    "category": "မုန့်ဟင်းငါး။ညှပ်။အုန်းနို့။",
+    "category_id": "MAIN50",
+    "available": true,
+    "source_id": 1039,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM721",
+    "name": "အုန်းနို့ ဘဲဥ",
+    "aliases": [
+      "အုန်းနို့ ဘဲဥ",
+      "အုန်းနို့ဘဲဥ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3500,
+    "category": "မုန့်ဟင်းငါး။ညှပ်။အုန်းနို့။",
+    "category_id": "MAIN50",
+    "available": true,
+    "source_id": 1044,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM723",
+    "name": "အုန်းနို့ အကြော်",
+    "aliases": [
+      "အုန်းနို့ အကြော်",
+      "အုန်းနို့အကြော်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3000,
+    "category": "မုန့်ဟင်းငါး။ညှပ်။အုန်းနို့။",
+    "category_id": "MAIN50",
+    "available": true,
+    "source_id": 1046,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM720",
+    "name": "အုန်းနို့ အလွတ်",
+    "aliases": [
+      "အုန်းနို့ အလွတ်",
+      "အုန်းနို့အလွတ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 2500,
+    "category": "မုန့်ဟင်းငါး။ညှပ်။အုန်းနို့။",
+    "category_id": "MAIN50",
+    "available": true,
+    "source_id": 1043,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM722",
+    "name": "အုန်းနို့ အီကြာကွေး",
+    "aliases": [
+      "အုန်းနို့ အီကြာကွေး",
+      "အုန်းနို့အီကြာကွေး"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3000,
+    "category": "မုန့်ဟင်းငါး။ညှပ်။အုန်းနို့။",
+    "category_id": "MAIN50",
+    "available": true,
+    "source_id": 1045,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM678",
+    "name": "စီလုံတီး",
+    "aliases": [
+      "စီလုံတီး"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 5000,
+    "category": "လက်ဖက်ရည် ။ နို့",
+    "category_id": "MAIN11",
+    "available": true,
+    "source_id": 1001,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM677",
+    "name": "စီလုံတီးပါဆယ်",
+    "aliases": [
+      "စီလုံတီးပါဆယ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 6000,
+    "category": "လက်ဖက်ရည် ။ နို့",
+    "category_id": "MAIN11",
+    "available": true,
+    "source_id": 1000,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM565",
+    "name": "နို့ကြက်ဥ",
+    "aliases": [
+      "နို့ကြက်ဥ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3000,
+    "category": "လက်ဖက်ရည် ။ နို့",
+    "category_id": "MAIN11",
+    "available": true,
+    "source_id": 888,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM568",
+    "name": "နို့လက်ဖက်ရည်",
+    "aliases": [
+      "နို့လက်ဖက်ရည်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3000,
+    "category": "လက်ဖက်ရည် ။ နို့",
+    "category_id": "MAIN11",
+    "available": true,
+    "source_id": 891,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM564",
+    "name": "နွားနို့",
+    "aliases": [
+      "နွားနို့"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 2500,
+    "category": "လက်ဖက်ရည် ။ နို့",
+    "category_id": "MAIN11",
+    "available": true,
+    "source_id": 887,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM566",
+    "name": "မလိုင်",
+    "aliases": [
+      "မလိုင်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 5000,
+    "category": "လက်ဖက်ရည် ။ နို့",
+    "category_id": "MAIN11",
+    "available": true,
+    "source_id": 889,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM655",
+    "name": "ရိုးရိုးပါဆယ်",
+    "aliases": [
+      "ရိုးရိုးပါဆယ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 2500,
+    "category": "လက်ဖက်ရည် ။ နို့",
+    "category_id": "MAIN11",
+    "available": true,
+    "source_id": 978,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM738",
+    "name": "လက်ဖက်ရည် ရှယ်ပါဆယ်",
+    "aliases": [
+      "လက်ဖက်ရည် ရှယ်ပါဆယ်",
+      "လက်ဖက်ရည်ရှယ်ပါဆယ်"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 3500,
+    "category": "လက်ဖက်ရည် ။ နို့",
+    "category_id": "MAIN11",
+    "available": true,
+    "source_id": 1061,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM769",
+    "name": "လင်ဇီးဘလက်ကော်ဖီးခါးခါး",
+    "aliases": [
+      "လင်ဇီးဘလက်ကော်ဖီးခါးခါး"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 5000,
+    "category": "လက်ဖက်ရည် ။ နို့",
+    "category_id": "MAIN11",
+    "available": true,
+    "source_id": 1092,
+    "variation_list": []
+  },
+  {
+    "id": "ITEM567",
+    "name": "အဟာရ",
+    "aliases": [
+      "အဟာရ"
+    ],
+    "unit": "ပွဲ",
+    "unit_needs_review": true,
+    "price": 5500,
+    "category": "လက်ဖက်ရည် ။ နို့",
+    "category_id": "MAIN11",
+    "available": true,
+    "source_id": 890,
+    "variation_list": []
+  }
+]
